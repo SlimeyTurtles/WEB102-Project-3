@@ -44,8 +44,8 @@ function App() {
     
     if (score > highScore) {
       setHighScore(score)
-      setScore(0)  
     }
+    setScore(0)  
     window.alert(`❌ Incorrect. The correct answer was "${answer}".`);
   }
 
