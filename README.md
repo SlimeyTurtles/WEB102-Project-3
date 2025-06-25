@@ -45,6 +45,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Demo gif](https://raw.githubusercontent.com/SlimeyTurtles/WEB102-Project-3/refs/heads/main/demo.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
