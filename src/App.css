@@ -64,3 +64,11 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+.flex-horizontal {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 8px;
+}
